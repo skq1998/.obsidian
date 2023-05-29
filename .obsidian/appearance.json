@@ -1,0 +1,19 @@
+{
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "img-center",
+    "custom-admonitions.996976",
+    "numbers",
+    "justify"
+  ],
+  "cssTheme": "",
+  "theme": "obsidian",
+  "accentColor": "",
+  "monospaceFontFamily": "Hack Nerd Font",
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "translucency": false,
+  "textFontFamily": "Times New Roman",
+  "interfaceFontFamily": "",
+  "baseFontSizeAction": true
+}

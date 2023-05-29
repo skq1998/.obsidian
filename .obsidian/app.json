@@ -1,0 +1,22 @@
+{
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "legacyEditor": false,
+  "livePreview": true,
+  "defaultViewMode": "source",
+  "attachmentFolderPath": "附件",
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false,
+  "autoPairBrackets": true,
+  "spellcheckLanguages": [
+    "en"
+  ],
+  "spellcheck": false,
+  "showFrontmatter": false
+}

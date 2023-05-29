@@ -1,0 +1,80 @@
+{
+  "userAdmonitions": {
+    "thm": {
+      "type": "thm",
+      "color": "24, 73, 220",
+      "icon": {
+        "name": "hand-point-right",
+        "type": "font-awesome"
+      },
+      "command": true,
+      "title": "Theorem",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    },
+    "def": {
+      "type": "def",
+      "color": "190, 94, 35",
+      "icon": {
+        "name": "hand-point-right",
+        "type": "font-awesome"
+      },
+      "command": true,
+      "title": "Definition",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    },
+    "pro": {
+      "type": "pro",
+      "color": "223, 195, 17",
+      "icon": {
+        "name": "hand-point-right",
+        "type": "font-awesome"
+      },
+      "command": true,
+      "title": "Proposition",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "axi": {
+      "type": "axi",
+      "color": "190, 14, 14",
+      "icon": {
+        "name": "angle-right",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Axiom",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": true,
+  "version": "9.3.1",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": true
+  },
+  "icons": [],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.996976",
+  "syncLinks": true,
+  "enableMarkdownProcessor": false,
+  "allowMSSyntax": true,
+  "livePreviewMS": true
+}
